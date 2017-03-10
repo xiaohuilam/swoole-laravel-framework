@@ -1,5 +1,5 @@
 {
-    "name": "chongyi/swoole-laravel-framework",
+    "name": "xiaohuilam/swoole-laravel-framework",
     "description": "Rebuild laravel framework on swoole.",
     "minimum-stability": "dev",
     "license": "MIT",
